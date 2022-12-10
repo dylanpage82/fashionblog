@@ -1,4 +1,5 @@
 export default function Footer(props){
+
     return(
 
         <footer>
@@ -13,6 +14,7 @@ export default function Footer(props){
                 <li><a href="">Tips</a></li>
             </ul>
         </nav>
+         © 2013 Valet Industries, Inc
         
     </footer>
     )

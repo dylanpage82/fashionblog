@@ -27,7 +27,8 @@ footer{
     padding-bottom: 1rem;
 }
 header h1{
-    color:tomato
+    color:tomato;
+    font-size: x-large;
 }
 .top-nav{
     padding:none;
